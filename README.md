@@ -29,7 +29,7 @@ Welcome to my GitHub page! I'm a passionate software developer with experience i
 
 Here are some of the projects I've worked on:
 
-### 1. [**Freelance Marketplace**](https://github.com/Alaicry/mindtech-server)
+### 1. [**Freelance Marketplace**(private)](https://github.com/Alaicry/mindtech-server)
 A web-based platform for freelancers to find and take on projects, built with **Node.js** and **PostgreSQL**.
 
 ### 2. [**S3-like Object Storage**](https://github.com/erik-akt/triple-s)
