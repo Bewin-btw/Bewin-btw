@@ -32,14 +32,14 @@ Here are some of the projects I've worked on:
 ### 1. [**Freelance Marketplace**(private)](https://github.com/Alaicry/mindtech-server)
 A web-based platform for freelancers to find and take on projects, built with **Node.js** and **PostgreSQL**.
 
-### 2. [**S3-like Object Storage**](https://github.com/erik-akt/triple-s)
+### 2. [**Velvet-Threads**](https://github.com/Bewin-btw/Velvet-Threads)
+
+
+### 3. [**Coffee shop Back-end service**](https://github.com/Bewin-btw/coffee-shop)
+Web application that facilitates the management of inventory, menu items, orders, and aggregation features for a coffee shop. Built using Go, it offers a modular and scalable design.
+
+### 4. [**S3-like Object Storage**](https://github.com/Bewin-btw/s3)
 A simplified object storage system built using **Go** that mimics basic functionalities of an S3 service.
-
-### 3. [**Tour Agency Website**](https://github.com/erik-akt/tour-agency)
-A website for booking tours, featuring destinations and tour packages, built with **Node.js** and **PostgreSQL**.
-
-### 4. [**Credit Card Validator**](https://github.com/erik-akt/creditcard)
-A **Golang** tool that validates credit card numbers using Luhn’s algorithm and checks the issuing bank and brand.
 
 ---
 
