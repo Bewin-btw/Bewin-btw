@@ -66,7 +66,7 @@ I'm constantly expanding my skills in:
 ## 🌱 How to Reach Me
 
 - 📧 Email: [aktaeverikwork@gmail.com](mailto:aktaeverikwork@gmail.com)
-- 💼 LinkedIn: [Erik Aktaev](https://www.linkedin.com/in/erik-aktaev-482a66289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 LinkedIn: [Erik Aktaev](https://www.linkedin.com/in/erik-aktaev-482a66289/)
 
 ---
 
