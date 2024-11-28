@@ -41,7 +41,7 @@ Web application that facilitates the management of inventory, menu items, orders
 ### 4. [**Hotel system Back-end service**(java)](https://github.com/Bewin-btw/HotelReservation_test)
 Demonstration project that simulates a hotel reservation system. It is designed to showcase a simple yet effective way to manage hotel bookings.
 
-### 4. [**S3-like Object Storage**](https://github.com/Bewin-btw/s3)
+### 4. [**S3-like Object Storage**(golang)](https://github.com/Bewin-btw/s3)
 A simplified object storage system built using **Go** that mimics basic functionalities of an S3 service.
 
 ---
