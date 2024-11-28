@@ -35,8 +35,11 @@ A web-based platform for freelancers to find and take on projects, built with **
 ### 2. [**Velvet-Threads**](https://github.com/Bewin-btw/Velvet-Threads)
 
 
-### 3. [**Coffee shop Back-end service**](https://github.com/Bewin-btw/coffee-shop)
+### 3. [**Coffee shop Back-end service**(golang](https://github.com/Bewin-btw/coffee-shop)
 Web application that facilitates the management of inventory, menu items, orders, and aggregation features for a coffee shop. Built using Go, it offers a modular and scalable design.
+
+### 4. [**Hotel system Back-end service**(java)](https://github.com/Bewin-btw/HotelReservation_test)
+Demonstration project that simulates a hotel reservation system. It is designed to showcase a simple yet effective way to manage hotel bookings.
 
 ### 4. [**S3-like Object Storage**](https://github.com/Bewin-btw/s3)
 A simplified object storage system built using **Go** that mimics basic functionalities of an S3 service.
