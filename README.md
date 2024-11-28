@@ -50,7 +50,7 @@ A simplified object storage system built using **Go** that mimics basic function
 
 - **Programming Languages**: Go, Node.js (JavaScript), Java
 - **Frameworks & Libraries**: Express, NestJS, Spring Boot
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools & Technologies**: Docker, Kubernetes, Git, CI/CD
 - **Cloud Platforms**: Google Cloud, AWS
 
