@@ -10,9 +10,10 @@ Welcome to my GitHub page! I'm a passionate software developer with experience i
   - **Go (Golang)**
   - **Node.js**
   - **Java**
-  - **PostgreSQL, MySQL**
+  - **PostgreSQL, MySQL, mongodb**
   - **REST APIs & Microservices**
   - **Cloud Platforms (AWS, GCP)**
+  - **Redis, Memcached**
 
 - 🧑‍💻 Currently working on:
   - **Building scalable backend systems**
